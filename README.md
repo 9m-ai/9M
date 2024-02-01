@@ -5,7 +5,7 @@ This smart contract is what powers https://9m.ai/
 A decentralized store for obtaining virtual machines to run modded servers on.
 
 ## Promises
-The following are promises this ERC20 smart contract aims to accomplish:
+The following are promises this ERC721 smart contract aims to accomplish:
 1. Allows users to mint a unique NFT that can be transferred that represents a virtual machine classification
 2. Each NFT represents a virtual machine abstract and allows token holder authorization to control it
 3. Virtual machine NFT representations have a set expiration date
