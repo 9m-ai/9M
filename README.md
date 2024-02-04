@@ -41,3 +41,8 @@ Clone this repository and use remix to compile and deploy both .sol source files
 
 ## Attribution
 Smart contract additional functions by [twit:@037](https://twitter.com/037) / [git:@649](https://github.com/649)
+
+## To do
+This section is a list of tasks that are pending. You're more than free to help and contribute to this project by creating a pull request.
+* Proxy smart contract that offers discounts on VM listings by considering number of hours previously rented
+* Proxy smart contract relay that pays for gas fees
